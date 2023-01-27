@@ -1,0 +1,4 @@
+python-dotenv
+tweepy
+git+https://github.com/dbader/schedule@3eac646a8d2658929587d7454bd2c85696df254e#egg=schedule
+pytz
