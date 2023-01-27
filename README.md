@@ -20,7 +20,7 @@ Create a `.env` file in the workspace folder and fill in the credentials:
 
 ## Customisation
 
-Make sure to specify the following data in `app.py`:
+Make sure to specify the [following data](https://github.com/AquaIsMissing/Is-Source-2-Out-Yet/blob/main/app.py#L25) in `app.py`:
 
 - Time of the day to schedule
 - Desired timezone ([list of tz database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List))
